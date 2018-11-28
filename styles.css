@@ -129,6 +129,6 @@ img {
 
 .linkinp
 {
-padding: 0;
-display: inline;
+padding: 0 !important;
+display: inline !important;
 }
