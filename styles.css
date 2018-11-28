@@ -126,3 +126,9 @@ img {
 	float: right;
 	right: 10%;
 }
+
+.linkinp
+{
+padding: 0;
+display: inline;
+}
