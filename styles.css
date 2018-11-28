@@ -10,7 +10,7 @@ body
 	margin: 0;
 	padding: 0;
 	/*background-image: linear-gradient(to bottom, rgba(252, 252, 252, 0.6) 0%,rgba(255, 255, 255, 0.6) 100%), url("images/tech.jpg");*/
-	background-image: url("images/wave.jpg");
+	background-image: url("/images/wave.jpg");
 	background-size:cover;
 	/*background-color: rgb(194, 194, 194);*/
 	position: relative;
