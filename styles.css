@@ -11,7 +11,7 @@ body
 	padding: 0;
 	/*background-image: linear-gradient(to bottom, rgba(252, 252, 252, 0.6) 0%,rgba(255, 255, 255, 0.6) 100%), url("images/tech.jpg");*/
 	/*background-image: url("https://raw.githubusercontent.com/Jooseba/joosesepp/dab3ed7062bf33374a20ba91e77e2bb950d5792a/images/wave.jpg");*/
-	linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%,rgba(0, 0, 0, 0.3) 100%),url("https://raw.githubusercontent.com/Jooseba/joosesepp/dab3ed7062bf33374a20ba91e77e2bb950d5792a/images/wave.jpg");
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%,rgba(0, 0, 0, 0.3) 100%),url("https://raw.githubusercontent.com/Jooseba/joosesepp/dab3ed7062bf33374a20ba91e77e2bb950d5792a/images/wave.jpg");
 	background-size:cover;
 	/*background-color: rgb(194, 194, 194);*/
 	position: relative;
