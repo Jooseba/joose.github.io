@@ -172,8 +172,13 @@ display: inline !important;
 
 .imgcollection
 {
-	width: 80%;
+	width: 90%;
 	margin: auto;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	flex-flow: row wrap;
+	align-content: space-between;
 }
 
 img.top
