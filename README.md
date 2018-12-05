@@ -6,9 +6,11 @@ Vastaan itse sivujen teosta ja ylläpidosta sekä projektin loppuun viemisestä.
 
 ## Rakennekaavio
 Kuva sivuni rakenteesta:
+
 ![rakenne](/images/rakenne.png)
 
 Suunnitelmani layoutista:
+
 ![Layout](/images/layout.png)
 
 ## Testattu
