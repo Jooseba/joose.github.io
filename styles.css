@@ -180,6 +180,7 @@ display: inline !important;
 	flex-flow: row wrap;
 	align-content: space-between;
 	padding: 0;
+	text-align: center;
 }
 
 img.top
