@@ -9,12 +9,12 @@ function init() {
 	};
 	xhr.send();
 
-	/*var xhr= new XMLHttpRequest();
-	xhr.open('GET', 'home.html', true);
+	var xhr= new XMLHttpRequest();
+	xhr.open('GET', 'footer.html', true);
 	xhr.onreadystatechange= function() {
 		if (this.readyState!==4) return;
 		if (this.status!==200) return; // or whatever error handling you want
-		document.getElementById('content').innerHTML= this.responseText;
+		document.getElementById('footer').innerHTML= this.responseText;
 	};
-	xhr.send();*/
+	xhr.send();
 }
