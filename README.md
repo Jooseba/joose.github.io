@@ -19,4 +19,4 @@ Microsoft Edge (42.17134.1.0 ja Microsoft EdgeHTML 17.17134) ja Firefoxilla (63.
 ![Validator](/images/validator.PNG)
 
 ## Kommentit ja itsearviointi
-Minusta työ onnistui ihan hyvi. Ulkonästä tuli sellainen kuin halusin. Vielä voisi hinkata jotain tekstin sävyjä ei niin kirkkaiksi, mutta sitten pitäisi todennäköisesti vaihtaa tausta kuvakin, sillä siinä on erittäin haasteellinen värimaailma. Koin harjoittelutyön mielekkääksi, sillä osaan jonkin verran valmiiksi web-koodausta sekä koen, että tästä on varmasti hyötyä minulle työnhaussa. Sivuston tekoon käytin noin 4 työpäivää.
+Minusta työ onnistui ihan hyvi. Ulkonästä tuli sellainen kuin halusin. Vielä voisi hinkata jotain tekstin sävyjä ei niin kirkkaiksi, mutta sitten pitäisi todennäköisesti vaihtaa tausta kuvakin, sillä siinä on erittäin haasteellinen värimaailma. Koin harjoittelutyön mielekkääksi, sillä osaan jonkin verran valmiiksi web-koodausta sekä koen, että tästä on varmasti hyötyä minulle työnhaussa.
